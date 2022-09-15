@@ -1,0 +1,9 @@
+`help` # Show help about git, or about another second command
+`clone [repository]` # Clone a repository
+`init` # Create a new repository
+`status` # Show the current status of the repository
+`branch [--list]` # Show or changes branches
+`checkout [-b OR tag OR …]` # Change branch/commit
+`log` # Look at the history of current branch
+`git add`, `git restore`, `git commit` # Stage & record changes
+
